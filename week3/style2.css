@@ -1,0 +1,15 @@
+.Box {
+    margin: 30px;
+    padding: 15px; 
+    border: 4px dashed olivedrab;
+    width: 300px;
+    height: 150px;
+
+    background-color: rgb(198, 234, 151);
+    text-align: center;
+    font-size: 30px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
